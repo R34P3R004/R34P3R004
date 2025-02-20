@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @R34P3R004
-- 👀 I’m interested in bug bounty
-- 🌱 I’m currently learning B.Tech 
-- 📫 R34P3R004@gmail.com
-- 😄 Pronouns: REAPER 
-- ⚡ Fun fact: Life sucks 
+
